@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
         String name = myInputName.getText().toString();
 
-                myDisplay.setText("Panigt "+name+"!");
+                myDisplay.setText("Pangit "+name+"!");
             }
         });
 
