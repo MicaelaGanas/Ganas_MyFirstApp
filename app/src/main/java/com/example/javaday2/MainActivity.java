@@ -45,8 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         myErase.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
-                myDisplay.setText("HELLO NA PUD");
+            public void onClick(View view) {myDisplay.setText("HELLO NA PUD");
             }
         });
 
